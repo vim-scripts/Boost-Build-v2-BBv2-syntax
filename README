@@ -1,0 +1,4 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2202
+
+Theres another build system that I personally prefer to use: http://boost.org/boost-build2/index.html
+This scripts cover a small amount of the BBv2 syntax, but the work has just been started ;-) Welcome any contributions!
